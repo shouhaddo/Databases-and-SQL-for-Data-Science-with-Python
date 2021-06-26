@@ -1,4 +1,4 @@
-### Databases-and-SQL-for-Data-Science-with-Python (Honors)
+### Databases-and-SQL-for-Data-Science-with-Python (Honors Week 1 - Week 6)
 ![alt text](XDP_COURSE!_sql-data-science.jpeg)
 <br>
 course link : (https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
@@ -22,8 +22,7 @@ This course can be applied to multiple Specializations or Professional Certifica
 <li>IIBM Data Engineering Professional Certificate
 <li>IIntroduction to Data Science Specialization (Enrolled)
 <li>IIBM Data Science Professional Certificate (Enrolled)
-
-- 
+  </ul>
 
 
 
