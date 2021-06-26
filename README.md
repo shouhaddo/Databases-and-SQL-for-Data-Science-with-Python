@@ -1,6 +1,8 @@
-### Databases-and-SQL-for-Data-Science-with-Python
+### Databases-and-SQL-for-Data-Science-with-Python (Honors)
+![alt text](XDP_COURSE!_sql-data-science.jpeg)
 <br>
-course link :<a href=" https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science">Databases and SQL for Data Science with Python</a>
+course link : (https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
+
 <br>
 <br>
 This repository contains the <b>answers</b> for coursera 's updated <b>"Databases and SQL for Data Science with Python " </b>course by ibm including the honors assignment .
